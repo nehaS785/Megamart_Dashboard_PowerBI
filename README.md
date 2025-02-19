@@ -20,6 +20,9 @@ The objective of the Moraya Mega Mart Power BI Dashboard is to provide a compreh
 - add a slicer for order date by Quarter
 - add a slicer for state
 
+## Dashboard Interaction
+
+
 ## Process -
 Gather sales, inventory, and customer data from various sources.
 Clean and transform data using Power Query (handling missing values, correcting data types).
