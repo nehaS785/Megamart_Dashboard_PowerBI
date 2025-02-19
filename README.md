@@ -19,3 +19,5 @@ The objective of the Moraya Mega Mart Power BI Dashboard is to provide a compreh
 - show the profit by Sub-category
 - add a slicer for order date by Quarter
 - add a slicer for state
+
+## Process-
