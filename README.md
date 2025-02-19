@@ -5,3 +5,5 @@ The objective of the Moraya Mega Mart Power BI Dashboard is to provide a compreh
 ## Dataset Used - Details & Orders
 Details 
 - <a href="https://github.com/nehaS785/Megamart_Dashboard_PowerBI/blob/main/Details.csv">Dataset<a>
+Orders
+- <a href="https://github.com/nehaS785/Megamart_Dashboard_PowerBI/blob/main/Orders.csv">Dataset<a>
