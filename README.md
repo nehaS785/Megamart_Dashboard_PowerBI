@@ -21,7 +21,7 @@ The objective of the Moraya Mega Mart Power BI Dashboard is to provide a compreh
 - add a slicer for state
 
 ## Dashboard Interaction
-
+- <a href="https://github.com/nehaS785/Megamart_Dashboard_PowerBI/blob/main/Moraya%20MegaMart_Neha_Sawant.pbix">View Dashboard/a>
 
 ## Process -
 Gather sales, inventory, and customer data from various sources.
