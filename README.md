@@ -33,7 +33,7 @@ Clean and transform data using Power Query (handling missing values, correcting 
 Build relationships between tables using a star schema (Fact: Sales, Dimensions: Products, Customers, Time, etc.).
 Create interactive visuals for sales trends, top products, customer insights, and inventory analysis using DAX.
 Analyze trends, identify growth opportunities, and generate business recommendations.
--Use insights to improve sales, optimize inventory, and enhance customer engagement.
+Use insights to improve sales, optimize inventory, and enhance customer engagement.
 
 
 ## Dashboard Image
