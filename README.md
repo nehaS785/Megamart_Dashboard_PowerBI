@@ -21,9 +21,9 @@ The objective of the Moraya Mega Mart Power BI Dashboard is to provide a compreh
 - add a slicer for state
 
 ## Process-
--Gather sales, inventory, and customer data from various sources.
--Clean and transform data using Power Query (handling missing values, correcting data types).
--Build relationships between tables using a star schema (Fact: Sales, Dimensions: Products, Customers, Time, etc.).
--Create interactive visuals for sales trends, top products, customer insights, and inventory analysis using DAX.
--Analyze trends, identify growth opportunities, and generate business recommendations.
+Gather sales, inventory, and customer data from various sources.
+Clean and transform data using Power Query (handling missing values, correcting data types).
+Build relationships between tables using a star schema (Fact: Sales, Dimensions: Products, Customers, Time, etc.).
+Create interactive visuals for sales trends, top products, customer insights, and inventory analysis using DAX.
+Analyze trends, identify growth opportunities, and generate business recommendations.
 -Use insights to improve sales, optimize inventory, and enhance customer engagement.
