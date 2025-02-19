@@ -20,8 +20,10 @@ The objective of the Moraya Mega Mart Power BI Dashboard is to provide a compreh
 - add a slicer for order date by Quarter
 - add a slicer for state
 
+
 ## Dashboard Interaction
 - <a href="https://github.com/nehaS785/Megamart_Dashboard_PowerBI/blob/main/Moraya%20MegaMart_Neha_Sawant.pbix">View Dashboard/a>
+
 
 ## Process -
 Gather sales, inventory, and customer data from various sources.
@@ -30,6 +32,9 @@ Build relationships between tables using a star schema (Fact: Sales, Dimensions:
 Create interactive visuals for sales trends, top products, customer insights, and inventory analysis using DAX.
 Analyze trends, identify growth opportunities, and generate business recommendations.
 -Use insights to improve sales, optimize inventory, and enhance customer engagement.
+
+## Dashboard Image
+
 
 ## Project Insights -
 Identified top-selling products, peak sales periods, and revenue trends.
